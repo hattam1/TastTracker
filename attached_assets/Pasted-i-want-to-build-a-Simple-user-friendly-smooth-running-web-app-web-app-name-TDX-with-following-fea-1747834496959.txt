@@ -1,0 +1,30 @@
+i want to build a Simple user friendly smooth running web app (web app name: TDX) with following features:
+
+UI: It should be like a reward earning apps:
+
+Easy Paisa Integration: NO need, because user only has to upload a screenshot of payment receipt in the web app and admin see check and verify that either its real or fake if its fake user reward program wont active if its real receipt then admin approve it and user reward program begins.
+
+Youtube: NO API needed, solely the screenshot provided by the user he upload in the app and admin sees that in the admin panel.
+
+Deposit: When a user uploads the screenshot of the payment he transfers into an admin easy paisa account from his easy paisa app. The admin will see the screenshot if admin has actually received the money in his own easy paisa app then admin go the admin panel in this app and select approve If admin does not receive the amount admin click on Not received button in admin panel and the user will get the notification in app banner “Your deposit amount has not received yet please try again and upload the real screenshot” once the screenshot uploaded by user has verified by admin, admin click on approve so then user becomes active and his amount reflects in statistics page as well as admin statistics too with following details in table form: User Full name, User Password: User Easy Paisa Account: User deposited amount
+
+user can create his profile account each user has to click on the youtube button which redirects him to a youtube video on youtube (https://www.youtube.com/watch?v=rKpltaOMFdc) he has to , like this video, subscribe to the channel and comment on the word "nice video" or good work or love it. user take the screenshot of the comment section and upload the screenshot into this web. 
+
+Admin panel must have a user management section in which admin can see how many users are registered, how much amount user deposited and how much withdrawn along with details of each user’s name, user name, password, city, address. Admin panel also has role based controls, in which admin decides the controls for users.
+
+Reward Section: 1. deposit 5000 PKR into an easy paisa account and get 500 PKR profit in a week.2. deposit 15000 PKR into an easy paisa account and get 1500 PKR profit in a week.3. deposit 30000 PKR into an easy paisa account and get 3000 PKR profit in a week.4. deposit 50000 PKR into an easy paisa account and get 5000 PKR profit in a week. 5 deposit 100000 PKR into an easy paisa account and get 10000 PKR profit in a week. 6 deposit 500000 PKR into an easy paisa account and get 15000 PKR profit in a week. the following are the deposit details shown under each reward program name: saima easy paisa account: 0325-2879424. All reward programs should be shown like a table form with following headers: Package Type, Deposit Amount, Weekly Profit, Monthly Profit, Yearly Profit.Whenever any new visitor gets register himself he receive 200 PKR bonus shows in statistics section table
+
+ 
+Withdraw page/section: in which the user can click that button then the web app sends an email to: info.yourmobileplanet@gmail.com when the web app send the email it must contain following details: full name of the user, address, mobile number and easy paisa account number. once email is sent to admin then the user receive a message in web app that says "The withdraw amount will be transferred into your easy paisa account within 24-48 hours *Please note 100 rupees will be charged per withdrawl. If any new visitor visits the web app and select any reward program a popup shows with button says “register now” once user click it redirects him to registration page user has to fill following form fields: Full Name, Full Address, City, Referral code (optional), User Name, Password.
+
+This web app must have a feature of referral invitation, any registered user copy and share the referral invitation link to other people to get registered. If any new person registers then the actual user who sent the link will receive a 100 PKR bonus into his easy paisa account. But, when a user goes to the withdrawal section and try to apply for a withdrawal he receives a message in Urdu language: Minimum Withdraw Amount: 400 PKR Join the reward program, deposit the amount and receive weekly profits instantly click here to select your desired reward program. Then the user redirect to Reward program section. 
+
+Statistics section: this section provides following details in table form:Username, Full Name, Easy Paisa Number, Deposited amount till date: Total Profit Till Date, Amount Withdrawn Till Date, date of registration, reward program activation date, profit starting and weekly payouts dates, withdraw request dates only. while on other hand admin can see everything including number of users, and their username and password 
+
+This web app must have a system for user registration with following details: Full Name, Address, City, Mobile Number, Easy Paisa Account Number. Also there should be an admin login account only accessible to me as admin to web user registration suspension or deactivate the user(s). 
+
+Announcement banner: This web app also has a feature of announcement notification on the user screen. The admin must be able to send those notifications to all registered users in urdu language.All announcements and notifications in banner shape can be sent to users could be in english or urdu language depending on admin choice.
+
+User profit cycle: it wont begin until admin receives the digitial payment receipt by user uploaded in the system, once admin gives approval then the reward program gets activate and profit starts to calculate accordingly mentioned above and also in statistics page.
+
+
